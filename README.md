@@ -1,10 +1,13 @@
-# PacMen-Exercise
-A factory to create as many PacMen as you choose to add, that will move around the browser at their own speed.
+# Eye Exercise
 
-How to Run: When 'make one' is pressed a pacman will appear; there is no limit on how many pacmen you can create. 
-When 'move' is pressed, any pacmen you've created will move about the screen at various speeds.
+<img src= "Eyes.png" width='300'/>
 
-For future improvements, I would like to work on having the pacmen 'chomping' across the screen as their moving.
+## Description
+The result of this exercise was an animation of eyes following your cursor as it moves around the screen. This was completed using JavaScript HTML and CSS. 
+## How to Run
+If you download all the files and contain them in the same directory, you can run this animation locally by loading the index.html file onto your browser. 
+## Future Improvements
+There aren't any future improvements I plan on making at this time but if I decide to return to this exercise in the future I might play around with the image my cursor's movement manipulates. I.e. hair instead of eyes, or something entirely different like a bumble bee that follows the cursor. 
 
 
 
